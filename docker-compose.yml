@@ -6,5 +6,5 @@ services:
   site:
     build: .
     ports: ["4000:4000"]
-    volumes: ["./docs:/docs"]
-    # command: tail -f /dev/null
+    volumes: [".:/docs"]
+    command: tail -f /dev/null
