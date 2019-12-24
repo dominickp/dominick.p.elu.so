@@ -4,6 +4,8 @@ I'm a cloud software engineer at Bose. I have a bit of experience in a lot of di
 
 - [GitHub profile](https://github.com/dominickp)
 - [Resume](./assets/resume-web.pdf)
+-  <a href="https://mailhide.io/e/p9amR" onclick="mailhidepopup=window.open('https://mailhide.io/e/p9amR','mailhidepopup','width=580,height=635'); return false;">Email me</a> 
+
 
 ## In The Groove
 
