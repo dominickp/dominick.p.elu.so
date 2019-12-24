@@ -2,8 +2,9 @@
 
 I'm a cloud software engineer at Bose. I have a bit of experience in a lot of different areas, including back-end and front-end development, print automation, and process improvement.
 
-- [GitHub profile](https://github.com/dominickp)
+- [GitHub](https://github.com/dominickp)
 - [Resume](./assets/resume-web.pdf)
+- [LinkedIn](https://www.linkedin.com/in/dominickpeluso/)
 -  <a href="https://mailhide.io/e/p9amR" onclick="mailhidepopup=window.open('https://mailhide.io/e/p9amR','mailhidepopup','width=580,height=635'); return false;">Email me</a> 
 
 
