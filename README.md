@@ -16,5 +16,5 @@ One of my favorite hobbies is playing In The Groove (ITG) which is a somewhat ob
 <a href="https://www.youtube.com/channel/UCpeNRVOVrqx_lras7hbOOrQ" target="_blank"><img src="./img/itg.jpg"></a>
 
 
-I stream live on my [Twitch channel](https://www.twitch.tv/dompel) and you can find previous highlights on my [YouTube channel](https://www.youtube.com/channel/UCpeNRVOVrqx_lras7hbOOrQ) and I track my achievements on the [Groovestats leaderboard](http://groovestats.com/?page=profile&id=66762).
+I stream live on my [Twitch channel](https://www.twitch.tv/dom_itg) and you can find previous highlights on my [YouTube channel](https://www.youtube.com/channel/UCpeNRVOVrqx_lras7hbOOrQ) and I track my achievements on the [Groovestats leaderboard](http://groovestats.com/?page=profile&id=66762).
 
